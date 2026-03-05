@@ -1,7 +1,7 @@
 # CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE DESENVOLVIMENTO DE SOFTWARE
 
 **CONTRATANTE:**
-Joao Pessoa, inscrito no CPF/CNPJ sob nº [NÚMERO], residente em [ENDEREÇO].
+Joao Pessoa, inscrito no CPF/CNPJ sob nº 17.322.834/0001-16, residente em Rua Vila São Francisco 344.
 
 **CONTRATADA:**
 Equipe de Desenvolvimento Grupo Cérbero, representada por Gustavo/Lucas
@@ -51,8 +51,9 @@ Barretos, 06 de Março de 2026.
 ---
 
 **Assinatura do Contratante**
-João Pessoa
+João Pessoa 17.322.834/0001-16
 
 ---
 **Assinatura da Contratada**
+
 Grupo Cérbero
