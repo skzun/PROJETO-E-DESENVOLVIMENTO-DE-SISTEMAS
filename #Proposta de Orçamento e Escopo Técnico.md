@@ -3,7 +3,7 @@
 ## 1. Dados do Cliente
 
 - **Nome/Razão Social:** Nordeste Manutenção
-- **CPF/CNPJ:** Aguardando Envio
+- **CPF/CNPJ:** 17.322.834/0001-16
 - **Endereço:** Rua Vila São Francisco 344
 - **Telefone:** 74 99088562
 
@@ -37,5 +37,6 @@ O projeto será desenvolvido utilizando tecnologias robustas de mercado, garanti
 |   3    | Desenvolvimento Front-end (Swing)        | 30h               | Gratis |
 |   4    | Testes e Implantação                     | 10h               | Gratis |
 | **TOTAL** | **Sistema Completo (Código Fonte + Instalação)** |**100h**| Gratis |
+
 
 ---
